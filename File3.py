@@ -17,11 +17,12 @@ while True:
      (user_input == "scissors" and computer_input == "paper") or\
      (user_input == "paper" and computer_input == "rock") :
          print("You won!")
+         user_wins += 1
     elif user_input == computer_input:
         print("It is tie")
     else:
          print("Computer won!")
-    computer_wins += 1
+         computer_wins += 1
         
     round_played += 1
     if round_played == 4:
