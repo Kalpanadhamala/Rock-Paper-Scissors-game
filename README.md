@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors-game
-This is a repository to learn python.
+This is a simple rock-paper-scissors game implemented in python. The game allows the player to play game against the Computer.
